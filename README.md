@@ -16,4 +16,4 @@
 
 📫 Contacto:
 - Email: rubencurielhernandez@gmail.com
-- LinkedIn: https://www.linkedin.com/in/rub%C3%A9n-curiel-hern%C3%A1ndez-57013633b/
+- LinkedIn: https://www.linkedin.com/in/rubén-curiel
