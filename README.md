@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 ¡Hola! Soy Rubén
 
-<!--
-**Ruben-Develop/Ruben-Develop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de 2º de Desarrollo de Aplicaciones Web (DAW)
 
-Here are some ideas to get you started:
+💻 Apasionado por la programación web y el desarrollo de frontend y backend. Buscando **prácticas en empresa** para seguir creciendo profesionalmente y aportar lo máximo de mí.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Tecnologías que uso:
+- HTML, CSS, JavaScript
+- Java
+- MySQL
+- Git y GitHub
+
+🧠 Actualmente aprendiendo:
+- Tecnologías focalizadas en desarrollo de aplicaciones Web
+- Metodologías ágiles
+
+📫 Contacto:
+- Email: rubencurielhernandez@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rub%C3%A9n-curiel-hern%C3%A1ndez-57013633b/
